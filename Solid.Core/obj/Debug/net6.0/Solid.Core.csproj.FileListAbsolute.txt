@@ -1,0 +1,36 @@
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+D:\דוטנט\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\User\Downloads\jm_9JPe2bmrtEK9pcX (1)\Project Pharm\WebApplication1\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
